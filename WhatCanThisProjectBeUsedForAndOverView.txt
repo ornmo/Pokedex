@@ -1,7 +1,8 @@
-This project is made of background images that expand when clicked on. 
+This project is an index of cards of different types of Pokemon.
+Each card contains information about the Pokemon and depending on the "type" of Pokemon the colour of the background of the card changes.
 
-It uses Flexbox, CSS transitions and JavaScript
+It uses Flexbox, CSS transitions and JavaScript and uses the Pokemon API
 
 This could be converted to be used in (for example) the following ways
 
-- 
+- good for learning about APIs and manipulating some of the data too
